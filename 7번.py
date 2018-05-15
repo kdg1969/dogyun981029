@@ -20,4 +20,4 @@ while True:
             continue
         break
 
-print(engkot_dict)
+print(engkor_dict)
